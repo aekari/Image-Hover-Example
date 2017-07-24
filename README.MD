@@ -1,3 +1,3 @@
-# Basic Web Template
+# Image Hover Example
 
-This is a basic web template for projects. After cloning this to local computer, remember to change the origin with git remote set-url origin ...
+This projects demonstrates one way to make images on a website more interesting by adding an overlaid text discription to an image when the user hovers their mouse over it.
